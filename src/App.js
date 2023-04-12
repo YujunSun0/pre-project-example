@@ -28,6 +28,7 @@ function App() {
       <button onClick={resetValue}> reset </button>
       <div>count: {count}</div>
       <button onClick={pushButton}> click </button>
+      Finish!
     </div>
   );
 }
